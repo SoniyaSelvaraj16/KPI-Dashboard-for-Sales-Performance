@@ -78,8 +78,8 @@ Key Learnings
 
 📊 Final Dashboard Output
 The Dashboard KPI Page includes:
+<img width="565" alt="image" src="https://github.com/user-attachments/assets/1d926e21-36b2-4c2e-b493-925902ded4d4" />
 
-<img width="573" alt="image" src="https://github.com/user-attachments/assets/2616cdee-5ce3-47e4-9301-dbc0b4dc68fe" />
 
 
 Total Revenue & Sales Quantity
