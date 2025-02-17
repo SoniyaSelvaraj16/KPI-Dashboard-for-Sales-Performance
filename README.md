@@ -76,8 +76,9 @@ Key Learnings
 ✅ Using DAX functions to create meaningful KPIs.
 ✅ Designing analytical visuals & reports.
 
-📊 Final Dashboard Output
+Final Dashboard Output
 The Dashboard KPI Page includes:
+
 <img width="565" alt="image" src="https://github.com/user-attachments/assets/1d926e21-36b2-4c2e-b493-925902ded4d4" />
 
 
